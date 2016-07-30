@@ -1,5 +1,32 @@
+
 body {
-background-color:black;
-color:white;
-font-family:helvetica;
+  background-color: black;
+  color: white;
+  font-family:Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-weight:300;
+  margin:15px;
+  background:url();
+  background-size:20% 40%;
+  background-attachment: fixed;
+  
+}
+
+a {
+  color: white;
+  font-family: Helvetica;
+  background-size:auto auto;
+  background-attachment: fixed;
+  font-style:none;
+  text-transform:none;
+  text-decoration:underline;
+}
+
+a:hover {
+  color: white;
+  font-family: Helvetica;
+  background-size:auto auto;
+  background-attachment: fixed;
+  font-style:normal;
+  text-decoration:none;
+  text-transform:italic;
 }
